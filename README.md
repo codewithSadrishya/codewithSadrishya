@@ -1,8 +1,8 @@
 Welcome to my GitHub repository!
 I'm a passionate student diving into the world of Big Data Analysis. 
 Here you'll find a collection of projects, assignments, and learning resources that showcase my journey as a Big Data Analyst student.
-- 👋 Hi, I’m @codewithSadrishya
-- 👀 I’m interested in 
+- 👋 Hi, I’m @Sadrishya Sharma
+- 👀 I’m interested in making diffrent real life projects
 - 🌱 I’m currently learning Data analysis 
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: ...
